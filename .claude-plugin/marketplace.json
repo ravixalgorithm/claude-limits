@@ -1,0 +1,14 @@
+{
+  "name": "claude-limits",
+  "description": "Share every account's Claude limits on one page",
+  "owner": {
+    "name": "landerdevelopers"
+  },
+  "plugins": [
+    {
+      "name": "claude-limits",
+      "source": "./plugins/claude-limits",
+      "description": "Share every account's Claude limits on one page"
+    }
+  ]
+}

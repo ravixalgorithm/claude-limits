@@ -1,0 +1,15 @@
+{
+  "name": "claude-limits",
+  "description": "Shares the logged-in account's 5-hour and weekly limits on your group's page, and shows them in the status line.",
+  "version": "1.0.0",
+  "author": { "name": "landerdevelopers" },
+  "userConfig": {
+    "connection_code": {
+      "type": "string",
+      "title": "Connection code",
+      "description": "The code you were sent: two parts joined by a colon",
+      "sensitive": true,
+      "required": true
+    }
+  }
+}
