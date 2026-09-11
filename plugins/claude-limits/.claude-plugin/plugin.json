@@ -1,8 +1,10 @@
 {
   "name": "claude-limits",
   "description": "Shares the logged-in account's 5-hour and weekly limits on your group's page, and shows them in the status line.",
-  "version": "1.0.0",
-  "author": { "name": "landerdevelopers" },
+  "version": "1.1.0",
+  "author": {
+    "name": "ravixalgorithm"
+  },
   "userConfig": {
     "connection_code": {
       "type": "string",

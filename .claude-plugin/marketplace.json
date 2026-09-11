@@ -2,7 +2,7 @@
   "name": "claude-limits",
   "description": "Share every account's Claude limits on one page",
   "owner": {
-    "name": "landerdevelopers"
+    "name": "ravixalgorithm"
   },
   "plugins": [
     {
